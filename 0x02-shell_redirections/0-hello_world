@@ -1,2 +1,3 @@
 #!/bin/bash
-echo ""[DHello, world"[C[D
+echo "Hello, World"
+''
