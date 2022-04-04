@@ -1,1 +1,2 @@
-#cho ""[DHello, World"
+#!/bin/bash
+echo ""[DHello, World" | cat
