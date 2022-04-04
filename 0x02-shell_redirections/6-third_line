@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 4 iacta | tail -n + 3[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[3[1;2F[1;2F[C[C[C[C[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1;2F[B[B[B[B[1;2F[C[1;2H[1;2F[1;2F[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+head -3 iacta | tail -1
